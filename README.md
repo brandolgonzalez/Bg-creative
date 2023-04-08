@@ -1,1 +1,1 @@
-# Bg-creative
+Este es un proyecto de como creare un repositori y clonarlo desde github a mi computadora  
